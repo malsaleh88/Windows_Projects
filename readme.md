@@ -101,30 +101,6 @@ You can follow [this](https://openclassrooms.com/en/courses/7710301-manage-windo
 
 
 
-#### **Cool to have** :
 
-**5. Sysmon Monitoring:**
-
-1. Install and configure your chosen [Sysmon monitoring](https://syedhasan010.medium.com/sysmon-how-to-setup-configure-and-analyze-the-system-monitors-events-930e9add78d) solution on the Server VM.
-2. Configure Sysmon to capture relevant events and filter noise specific to your domain environment and user activities (e.g., Alice's admin actions, Bob's file access).
-3. Demonstrate Sysmon functionality by simulating suspicious activities and capturing events related to both Alice and Bob.
-
-**6. Client-Side Access and Reporting:**
-
-1. Connect to the Server VM from the Client VMs using domain credentials (Alice and Bob).
-2. Verify access based on assigned user permissions and GPOs, demonstrating differences between Alice and Bob's access levels.
-3. Access and analyze Sysmon logs using your chosen solution.
-4. Prepare a client-facing report highlighting captured events, potential security concerns related to both Alice and Bob, and Sysmon's value within the Active Directory domain.
-
-**Evaluation:**
-
-- Successful completion of all steps (Active Directory setup, user management, roles, Sysmon implementation).
-- Demonstration of Sysmon functionality and client-facing report generation, covering both Alice and Bob's scenarios.
-- Understanding and application of security best practices throughout the configuration, considering user roles and permissions.
-
-**Additional Notes:**
-
-- Explore beyond basic steps and experiment with different configurations for learning.
-- Prioritize security best practices throughout the setup, especially within Active Directory and user account management.
 
 
