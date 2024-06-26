@@ -1,15 +1,5 @@
 ## Windows Server AD 
 
-- Type of Challenge: `Learning` 
-- Duration: `4 days`
-- Deadline: `26/04/2024`
-- Team challenge : `solo`
-
-## Overview
-
-This challenge guides you through deploying a secure Windows Server 2022 environment with Active Directory, essential server roles (IIS, DNS, DHCP), user management, Sysmon monitoring, and demonstration of its functionality to a client. Gain essential configuration skills, security awareness, and experience with Active Directory while incorporating user accounts like Alice and Bob for realistic role-based access.
-
-## Learning Objectives:
 
 * Install and configure Windows Server 2022.
 * Create and manage user accounts within Active Directory.
